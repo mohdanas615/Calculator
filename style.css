@@ -78,4 +78,6 @@
     font-size: 25px;
     box-shadow: none;
 }
-
+.calculator button.buttonAC{
+    background-color: rgb(212, 144, 17);
+}
